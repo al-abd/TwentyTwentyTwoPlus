@@ -1,0 +1,25 @@
+RewriteEngine On
+
+# remove www from host
+RewriteCond %{HTTP_HOST} ^www\.(.+)
+RewriteCond %{HTTPS}s/%1 ^(on(s)|offs)/(.+)
+RewriteRule ^ http%2://%3%{REQUEST_URI} [L,R=301]
+
+# force HTTPS
+RewriteCond %{HTTPS} =off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# CSS & JS
+RewriteRule javascript.js$  javascript.php [PT]
+RewriteRule style.css$  style.php [PT]
+
+#prevent caching
+<filesMatch "\.(html|htm|js|css)$">
+FileETag None
+	<ifModule mod_headers.c>
+	Header unset ETag
+	Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+	Header set Pragma "no-cache"
+	Header set Expires "Wed, 11 Jan 1984 05:00:00 GMT"
+	</ifModule>
+</filesMatch>
