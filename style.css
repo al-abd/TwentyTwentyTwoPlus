@@ -12,12 +12,6 @@ body {
     --wp--preset--font-family--source-serif-pro: "Yekan", serif !important;
 }
 
-/* Color */
-body {
-    --wp--preset--color--foreground: #414141 !important;
-    --wp--preset--color--block--background: #ffffff !important; /* Footer section background */
-}
-
 html {
     scroll-behavior: smooth;
 }
