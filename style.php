@@ -4,7 +4,7 @@
     header("Cache-Control: no-cache");
     header("Pragma: no-cache");
 
-    require 'template.css';
+    require 'style.css';
 
 
 
