@@ -69,6 +69,14 @@ input[type=submit] {
     justify-content: center !important;
 }
 
+/*
+    Adds center-justify
+*/
+.text-center-justify{
+    text-align: justify;
+    text-align-last: center;
+}
+
 .box-br-s {
     overflow: hidden;
     border-radius: 16px;
@@ -76,7 +84,7 @@ input[type=submit] {
 }
 
 /*
-    Add radius to box
+    Adds radius to box
 */
 .box-br {
     overflow: hidden;
