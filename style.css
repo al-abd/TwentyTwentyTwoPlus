@@ -77,6 +77,16 @@ input[type=submit] {
     text-align-last: center;
 }
 
+/*
+    Adds text-shadow
+*/
+.t-shadow{
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+/*
+    Adds radius to box
+*/
 .box-br-s {
     overflow: hidden;
     border-radius: 16px;
