@@ -53,14 +53,11 @@ input[type=submit] {
 /* Nav Menu */
 .wp-block-navigation .wp-block-navigation__submenu-icon {
 	margin-right: 0.25em;
-}
-
-.wp-block-navigation .wp-block-navigation__submenu-icon {
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
 }
 ul.wp-block-navigation__container ul a {
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 /**********************************/
