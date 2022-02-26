@@ -51,7 +51,7 @@ input[type=submit] {
 }
 
 /* Nav Menu */
-ul.wp-block-navigation__container ul.wp-block-navigation__submenu-container {
+ul.wp-block-navigation__container ul a {
     background: red;
 }
 
