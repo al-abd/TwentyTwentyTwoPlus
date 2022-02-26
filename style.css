@@ -52,7 +52,7 @@ input[type=submit] {
 
 /* Nav Menu */
 ul.wp-block-navigation__container ul a {
-    background: red;
+    font-size: 10px;
 }
 
 /**********************************/
