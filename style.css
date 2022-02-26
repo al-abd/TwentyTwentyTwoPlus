@@ -50,6 +50,11 @@ input[type=submit] {
     border-radius: 5px;
 }
 
+/* Nav Menu */
+ul.wp-block-navigation__container ul.wp-block-navigation__submenu-container {
+    background: red;
+}
+
 /**********************************/
 /******** Wordpress blocks ********/
 /**********************************/
