@@ -51,8 +51,11 @@ input[type=submit] {
 }
 
 /* Nav Menu */
+.wp-block-navigation .wp-block-navigation__submenu-icon {
+    margin-right: 0.25em;
+}
 ul.wp-block-navigation__container ul a {
-    font-size: 14px;
+    font-size: 5em;
 }
 
 /**********************************/
