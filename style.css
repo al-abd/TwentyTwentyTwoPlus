@@ -58,8 +58,6 @@ input[type=submit] {
 .wp-block-navigation .wp-block-navigation__submenu-icon {
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
-	margin-left: 0.25em;
-	margin-right: 0;
 }
 ul.wp-block-navigation__container ul a {
 	font-size: 0.8em;
