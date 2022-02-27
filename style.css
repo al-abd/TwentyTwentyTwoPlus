@@ -65,12 +65,6 @@ ul.wp-block-navigation__container ul a {
     border-radius: 10px;
 }
 
-/*add hover and transation*/
-ul.wp-block-navigation__container ul a :hover{
-    
-    transition:0.3;  
-}
-
 /**********************************/
 /******** Wordpress blocks ********/
 /**********************************/
