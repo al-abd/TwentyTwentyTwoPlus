@@ -67,7 +67,7 @@ ul.wp-block-navigation__container ul a {
 }
 
 /*add hover and transation*/
-.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container:hover{
+ul.wp-block-navigation__container ul a :hover{
     background-color: #a1a1a1;
     transition:0.3;  
 }
