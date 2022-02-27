@@ -65,11 +65,6 @@ ul.wp-block-navigation__container ul a {
     border-radius: 10px;
 }
 
-/*remove breadcrumb nav*/
-nav.woocommerce-breadcrumb{
-	display: none;
-}
-
 /**********************************/
 /******** Wordpress blocks ********/
 /**********************************/
@@ -178,4 +173,13 @@ nav.woocommerce-breadcrumb{
 	.display-none-mobile {
 		display: none !important;
 	}
+}
+
+/**********************************/
+/******** Wordpress blocks ********/
+/**********************************/
+
+/*remove breadcrumb nav*/
+nav.woocommerce-breadcrumb{
+	display: none;
 }
