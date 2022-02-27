@@ -59,6 +59,10 @@ input[type=submit] {
 ul.wp-block-navigation__container ul a {
 	font-size: 0.9em;
 }
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+    border-radius: 10px;
+}
+
 
 /**********************************/
 /******** Wordpress blocks ********/
