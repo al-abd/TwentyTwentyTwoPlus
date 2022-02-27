@@ -55,11 +55,9 @@ input[type=submit] {
 	margin-right: 0.25em;
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
-    border-radius: 5px;
 }
 ul.wp-block-navigation__container ul a {
 	font-size: 0.9em;
-    border-radius: 5px;
 }
 
 /**********************************/
