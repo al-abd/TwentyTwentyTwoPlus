@@ -59,6 +59,7 @@ input[type=submit] {
 }
 ul.wp-block-navigation__container ul a {
 	font-size: 0.9em;
+    border-radius: 5px;
 }
 
 /**********************************/
