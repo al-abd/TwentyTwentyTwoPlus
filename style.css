@@ -56,14 +56,21 @@ input[type=submit] {
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
 }
+
 ul.wp-block-navigation__container ul a {
 	font-size: 0.9em;
 }
+
 .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
     border-radius: 10px;
     margin: 1px;
 }
 
+/*add hover and transation*/
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container:hover{
+    background-color: #a1a1a1;
+    transition:0.3;  
+}
 
 /**********************************/
 /******** Wordpress blocks ********/
