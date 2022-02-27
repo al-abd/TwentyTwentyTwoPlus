@@ -176,10 +176,9 @@ ul.wp-block-navigation__container ul a {
 }
 
 /**********************************/
-/******** Wordpress blocks ********/
+/********** woocommerce ***********/
 /**********************************/
 
-/*remove breadcrumb nav*/
 nav.woocommerce-breadcrumb{
 	display: none;
 }
