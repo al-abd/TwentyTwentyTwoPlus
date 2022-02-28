@@ -184,6 +184,7 @@ nav.woocommerce-breadcrumb{
 	display: none;
 }
 
+
 /* 
   <Woocommerce Product>
 */
@@ -241,3 +242,21 @@ nav.woocommerce-breadcrumb{
 .wp-block-navigation.items-justified-right {
   --navigation-layout-justification-setting: flex-start !important;
 }
+/*
+search button style
+*/
+.wp-block-search__input{
+	background-color: #f2f2f2;
+    border-right-style: solid;
+	border: 10px;
+    border-radius: 10px;
+    border-color: red;
+    padding: 20px;
+}
+
+.wp-block-search__button{
+	border-radius: 100px;
+	background-color: #7d7d7d;
+
+}
+
