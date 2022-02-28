@@ -232,3 +232,12 @@ nav.woocommerce-breadcrumb{
       width: calc(100% - 2rem) !important;
   }
 }
+
+
+/***********************************/
+/*********** Navigation ************/
+/***********************************/
+
+.wp-block-navigation.items-justified-right {
+  --navigation-layout-justification-setting: flex-start !important;
+}
