@@ -197,6 +197,6 @@ search button style
 
 .wp-block-search__button{
 	border-radius: 100px;
-	color: red;
+	background-color: #7d7d7d;
 
 }
