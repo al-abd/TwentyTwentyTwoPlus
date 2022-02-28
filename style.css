@@ -217,3 +217,18 @@ nav.woocommerce-breadcrumb{
   flex-direction: column;
   align-items: flex-end;
 }
+
+/* Product hover : ANIMATION */
+.woocommerce-page ul.products li.product:hover {
+  box-shadow: 0 0 5px #7d7d7d7d;
+  z-index: 10;
+  transform: translateY(-1px);
+}
+
+/* Product mobile screen : SCREEN */
+@media only screen and (max-width: 768px) {
+  .woocommerce ul.products[class*="columns-"] li.product,
+  .woocommerce-page ul.products[class*="columns-"] li.product {
+      width: calc(100% - 2rem) !important;
+  }
+}
