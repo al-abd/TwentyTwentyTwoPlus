@@ -186,7 +186,8 @@ nav.woocommerce-breadcrumb{
 /*
 search button style
 */
-.wp-block-search .wp-block-search__input{
+.wp-block-search__input .element.style {
+	{
 	border: 10px;
     background-color: #f2f2f2;
     border-color: red;
