@@ -69,3 +69,11 @@ nav.woocommerce-breadcrumb{
     left: 0.3rem;
     color: #FFFFFF;
 }
+
+
+/* Product botton : BOX */
+.woocommerce a.button {
+    background-color: #08807b;
+    border: none !important;
+    border-radius: 4px;
+}
