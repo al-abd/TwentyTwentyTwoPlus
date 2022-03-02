@@ -189,10 +189,6 @@ nav.woocommerce-breadcrumb{
   <Woocommerce Product>
 */
 
-.wp-block-group{
-	overflow: hidden;
-}
-
 /* Products : LIST */
 .woocommerce-page ul.products {
   display: flex;
