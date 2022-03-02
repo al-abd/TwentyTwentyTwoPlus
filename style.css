@@ -234,6 +234,17 @@ nav.woocommerce-breadcrumb{
   }
 }
 
+/* Onsale : BOX */
+.woocommerce-page ul.products li.product .onsale {
+    padding: 7px !important;
+    line-height: 1 !important;
+    border-radius: 3px !important;
+    box-shadow: 0 0 5px #7d7d7d7d;
+    font-size: 13px;
+    background: #238c51;
+    top: 0.3rem;
+    left: 0.3rem;
+}
 
 /***********************************/
 /*********** Navigation ************/
@@ -242,4 +253,3 @@ nav.woocommerce-breadcrumb{
 .wp-block-navigation.items-justified-right {
   --navigation-layout-justification-setting: flex-start !important;
 }
-
