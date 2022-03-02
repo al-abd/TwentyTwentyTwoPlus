@@ -7,7 +7,7 @@
 
     require 'style.css';
     require 'woocommerce.css';
-
+    require 'wordpressBlocks.css';
 
 
 ?>
