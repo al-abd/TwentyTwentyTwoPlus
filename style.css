@@ -41,11 +41,3 @@ html {
 		--wp--wc--product--border: solid 1px rgba(105, 105, 105, 0.199);
 	}
 }
-
-/***********************************/
-/*********** Navigation ************/
-/***********************************/
-
-.wp-block-navigation.items-justified-right {
-  --navigation-layout-justification-setting: flex-start !important;
-}

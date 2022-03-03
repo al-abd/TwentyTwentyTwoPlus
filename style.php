@@ -10,6 +10,6 @@
     require 'wordpressBlocks.css';
     require 'customClass.css';
     require 'wordpressTemplate.css';
-
+    require 'navigation.css';
 
 ?>
