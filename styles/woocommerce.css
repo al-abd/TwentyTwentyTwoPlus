@@ -84,3 +84,10 @@ nav.woocommerce-breadcrumb{
     cursor: pointer;
     border-radius: 10px !important;
 }
+
+/* WC search textbox */
+.wp-block-search__input {
+    border: none !important;
+    background: #16857029;
+    border-radius: 10px;
+}
