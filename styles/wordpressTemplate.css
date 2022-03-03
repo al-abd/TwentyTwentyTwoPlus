@@ -1,0 +1,23 @@
+/**********************************/
+/****** Wordpress Themplate *******/
+/**********************************/
+
+/* Button */
+input[type=submit] {
+	border-radius: 5px;
+}
+
+/* Nav Menu */
+.wp-block-navigation .wp-block-navigation__submenu-icon {
+	margin-right: 0.25em;
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+}
+
+ul.wp-block-navigation__container ul a {
+	font-size: 0.9em;
+}
+
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+    border-radius: 10px;
+}
