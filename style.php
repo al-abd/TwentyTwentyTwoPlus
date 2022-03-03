@@ -11,6 +11,6 @@
     require 'styles/customClass.css';
     require 'styles/wordpressTemplate.css';
     require 'styles/navigation.css';
-    require 'searchPage.css';
+    require 'styles/searchPage.css';
 
 ?>
