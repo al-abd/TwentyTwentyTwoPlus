@@ -8,6 +8,8 @@
     require 'style.css';
     require 'woocommerce.css';
     require 'wordpressBlocks.css';
+    require 'customClass.css';
+    require 'wordpressTemplate.css';
 
 
 ?>
