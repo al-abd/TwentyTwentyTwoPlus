@@ -1,0 +1,16 @@
+/* Search result page */
+body.search.search-results .wp-block-post-template ul li {
+    text-align: center;
+}
+
+body.search.search-results .wp-block-post-template ul li div .wp-block-columns:first-child {
+    margin: auto;
+}
+
+body.search.search-results .wp-block-post-template ul li div .wp-block-columns:last-child {
+    display: none;
+}
+
+body.search.search-results .wp-block-post-template ul li div figure {
+    max-width: 23rem;
+}
