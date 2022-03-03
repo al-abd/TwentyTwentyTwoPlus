@@ -1,9 +1,0 @@
-/**********************************/
-/******** Wordpress blocks ********/
-/**********************************/
-
-/* Gallery */
-.wp-block-gallery figure {
-	margin-right: 5px !important;
-	margin-left: 5px !important;
-}

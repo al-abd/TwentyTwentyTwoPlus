@@ -5,11 +5,11 @@
     header("Pragma: no-cache");
 
 
-    require 'style.css';
-    require 'woocommerce.css';
-    require 'wordpressBlocks.css';
-    require 'customClass.css';
-    require 'wordpressTemplate.css';
-    require 'navigation.css';
+    require 'styles/style.css';
+    require 'styles/woocommerce.css';
+    require 'styles/wordpressBlocks.css';
+    require 'styles/customClass.css';
+    require 'styles/wordpressTemplate.css';
+    require 'styles/navigation.css';
 
 ?>
