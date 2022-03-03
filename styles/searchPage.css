@@ -3,14 +3,14 @@ body.search.search-results .wp-block-post-template ul li {
     text-align: center;
 }
 
-body.search.search-results .wp-block-post-template ul li div .wp-block-columns:first-child {
+body.search.search-results .wp-block-post-template li div .wp-block-columns div:first-child {
     margin: auto;
 }
 
-body.search.search-results .wp-block-post-template ul li div .wp-block-columns:last-child {
+body.search.search-results .wp-block-post-template li div .wp-block-columns div:last-child {
     display: none;
 }
 
-body.search.search-results .wp-block-post-template ul li div figure {
+body.search.search-results .wp-block-post-template li div figure {
     max-width: 23rem;
 }
