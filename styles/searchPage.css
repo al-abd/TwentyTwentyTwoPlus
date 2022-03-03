@@ -1,6 +1,8 @@
 /* Search result page */
 body.search.search-results .wp-block-post-template li {
     text-align: center;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #000;
 }
 
 body.search.search-results .wp-block-post-template li div .wp-block-columns div:first-child {
