@@ -78,3 +78,9 @@ nav.woocommerce-breadcrumb{
     border-radius: 4px;
 }
 
+/* WC search button */
+.wp-block-search__button {
+    background-color: #168570e0 !important;
+    cursor: pointer;
+    border-radius: 10px !important;
+}
