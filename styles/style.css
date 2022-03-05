@@ -17,6 +17,19 @@ html {
 	scroll-behavior: smooth;
 }
 
+/* All buttons on website */
+button {
+    background-color: #168570e0 !important;
+    cursor: pointer;
+    border-radius: 10px !important;    
+}
+
+input[type=number] {
+    background: #16857021;
+    border: none !important;
+    border-radius: 10px;
+}
+
 .wp-block-navigation:not(.has-background)
 	.wp-block-navigation__responsive-container.is-menu-open {
 	color: var(--wp--preset--color--foreground);
