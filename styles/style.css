@@ -25,10 +25,17 @@ form button {
     border: none !important;
 }
 
-input[type=number] {
+form input[type=number] {
     background: #1685701a;
     border: none !important;
     border-radius: 5px !important;
+}
+
+/* @beta */
+form select {
+    border: none !important;
+    padding: 7px;
+    border-radius: 3px;
 }
 
 .wp-block-navigation:not(.has-background)
