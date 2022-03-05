@@ -28,7 +28,7 @@ button {
 input[type=number] {
     background: #16857021;
     border: none !important;
-    border-radius: 10px;
+    border-radius: 5px !important;
 }
 
 .wp-block-navigation:not(.has-background)
