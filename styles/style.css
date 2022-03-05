@@ -21,7 +21,8 @@ html {
 button {
     background-color: #168570e0 !important;
     cursor: pointer;
-    border-radius: 10px !important;    
+    border-radius: 10px !important;
+    border: none !important;
 }
 
 input[type=number] {
