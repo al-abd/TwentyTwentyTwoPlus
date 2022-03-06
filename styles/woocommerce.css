@@ -93,6 +93,3 @@ nav.woocommerce-breadcrumb{
 }
 
 /*Products section*/
-.woocommerce-Price-amount.amount bdi {
-  line-break: anywhere;
-}
