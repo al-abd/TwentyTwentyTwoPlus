@@ -96,3 +96,6 @@ nav.woocommerce-breadcrumb{
 .wpsf-product-price{
     line-break: anywhere;
 }
+.woocommerce-Price-amount-amount{
+    line-break: auto;
+}
