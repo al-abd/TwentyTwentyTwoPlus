@@ -92,3 +92,7 @@ nav.woocommerce-breadcrumb{
     border-radius: 10px;
 }
 
+/*Products section*/
+.wpsf-product-price{
+    line-break: anywhere;
+}
