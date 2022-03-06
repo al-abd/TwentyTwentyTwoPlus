@@ -1,3 +1,7 @@
+.rz-overflow-hidden {
+  overflow: hidden;
+}
+
 .rz-test {
   color: red;
   background: green;
