@@ -101,3 +101,6 @@ nav.woocommerce-breadcrumb{
 .woocommerce-Price-amount.amount bdi {
     line-break: auto;
 }
+.wps-slider-section .wpsf-product{
+  width: 100%;
+}
