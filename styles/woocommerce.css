@@ -107,6 +107,6 @@ nav.woocommerce-breadcrumb{
   margin-bottom: 5px;
 }
 /* ----- */
-.wp-block-columns .alignwide{
+.wp-block-columns alignwide{
   background-color: red;
 }
