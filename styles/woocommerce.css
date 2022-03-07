@@ -93,7 +93,7 @@ nav.woocommerce-breadcrumb{
 }
 
 /*Products section*/
-.wpsf-product.sp-wps-product-image-area{
+.wpsf-product .sp-wps-product-image-area{
     width: 100% !important;
 }
 .wpsf-product-price{
