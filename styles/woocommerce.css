@@ -93,12 +93,12 @@ nav.woocommerce-breadcrumb{
 }
 
 /*Products section*/
+.wps-slider-section .wpsf-product{
+    width: 100% !important;
+}
 .wpsf-product-price{
     line-break: anywhere;
 }
 .woocommerce-Price-amount.amount bdi {
     line-break: auto;
-}
-.wpsf-product{
-    width: 100% !important;
 }
