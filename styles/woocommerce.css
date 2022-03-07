@@ -102,5 +102,5 @@ nav.woocommerce-breadcrumb{
     line-break: auto;
 }
 .wps-slider-section .wpsf-product{
-  width: 100%;
+  width: 100% !important;
 }
