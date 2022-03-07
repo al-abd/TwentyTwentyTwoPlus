@@ -100,5 +100,5 @@ nav.woocommerce-breadcrumb{
     line-break: auto;
 }
 .wpsf-product{
-    width: 100%;
+    width: 100% !important;
 }
