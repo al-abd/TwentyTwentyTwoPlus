@@ -107,7 +107,7 @@ nav.woocommerce-breadcrumb{
   margin-bottom: 5px;
 }
 /* ----- */
-.wp-block-columns .alignwide .is-not-stacked-on-mobile{
+.wp-block-columns.alignwide.is-not-stacked-on-mobile{
   background-color: #ef3b50;
   padding: 15px;
   border-radius: 10px;
