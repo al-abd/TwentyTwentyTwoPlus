@@ -93,8 +93,6 @@ nav.woocommerce-breadcrumb{
 }
 
 /*Products section*/
-
-
 .wpsf-product-price{
     line-break: anywhere;
 }
@@ -103,4 +101,8 @@ nav.woocommerce-breadcrumb{
 }
 .wps-slider-section .wpsf-product{
   width: 100% !important;
+}
+/* button */
+.wp-block-column{
+  margin-bottom: 5px;
 }
