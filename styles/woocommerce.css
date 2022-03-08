@@ -99,6 +99,9 @@ nav.woocommerce-breadcrumb{
 .woocommerce-Price-amount.amount bdi {
     line-break: auto;
 }
+.sp-wps-product-image-area{
+    width: 100%;
+}
 
 /* buttons */
 .wp-block-column{
