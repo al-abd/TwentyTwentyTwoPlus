@@ -99,14 +99,8 @@ nav.woocommerce-breadcrumb{
 .woocommerce-Price-amount.amount bdi {
     line-break: auto;
 }
-.wps-slider-section .wpsf-product{
-  width: 100% !important;
-}
-/* button */
+
+/* buttons */
 .wp-block-column{
-  margin-bottom: 5px;
-}
-/* ----- */
-.wp-block-columns alignwide{
-  background-color: red;
+    margin-bottom: 5px;
 }
