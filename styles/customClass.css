@@ -100,3 +100,18 @@
 .overflow-hidden {
     overflow: hidded;
 }
+
+/*
+ text-decoration: none 
+*/
+.t-dorn{
+	text-decoration: none;
+}
+
+/* 
+text background
+*/
+.t-bcgd{
+	background-color: #fff;
+	padding: 0px 10px;
+}
