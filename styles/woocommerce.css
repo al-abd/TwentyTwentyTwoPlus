@@ -108,7 +108,9 @@ nav.woocommerce-breadcrumb{
     margin-bottom: 5px;
 }
 
-/*  */
+/* product_container */
 .product_container{
     background-color: #FFFFFF;
+    padding: 2px;
+    border-radius: 5px;
 }
