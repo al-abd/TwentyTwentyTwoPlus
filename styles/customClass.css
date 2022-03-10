@@ -102,18 +102,3 @@
 .overflow-h {
     overflow: hidden;
 }
-
-/*
- text-decoration 
-*/
-.t-decoration{
-	text-decoration: none;
-}
-
-/* 
-text background
-*/
-.t-bcgd{
-	background-color: #fff;
-	padding: 0px 10px;
-}
