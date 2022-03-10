@@ -107,3 +107,8 @@ nav.woocommerce-breadcrumb{
 .wp-block-column{
     margin-bottom: 5px;
 }
+
+/*  */
+.owl-item{
+    background-color: #fff;
+}
