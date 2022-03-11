@@ -13,6 +13,9 @@
 	text-align: justify;
 	text-align-last: center;
 }
+.text-justify{
+	text-align: justify;
+}
 
 /*
 	Adds text-shadow
