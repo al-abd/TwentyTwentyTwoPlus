@@ -107,6 +107,6 @@
 }
 
 /* text-decoration none */
-.text-d{
+a.text-d, a:-webkit-any-link.text-d{
 	text-decoration: none !important;
 }
