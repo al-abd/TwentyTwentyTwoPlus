@@ -102,6 +102,11 @@
 /* 
 	overflow hidden
 */
-.overflow-h {
+.ofw-h {
     overflow: hidden;
+}
+
+/* text-decoration none */
+.text-d{
+	text-decoration: none !important;
 }
