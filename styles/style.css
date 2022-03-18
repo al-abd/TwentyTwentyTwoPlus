@@ -7,6 +7,28 @@
 		 url('https://cdn.cleveraj.net/fonts/WebYekan.svg#WebYekan') format('svg');
 }
 
+@font-face {
+	font-family: XM Yekan;
+	font-weight: normal;
+	font-style: normal;
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan.eot');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.woff2') format('woff2'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: XM Yekan;
+    font-style: normal;
+    font-weight: bold;
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff2') format('woff2'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.ttf') format('truetype');
+}
+
 body {
   --wp--preset--color--block--background: rgba(238, 238, 238, 0.47);
 	--wp--preset--font-family--system-font: "Yekan", sans-serif !important;
