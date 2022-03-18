@@ -116,7 +116,7 @@ nav.woocommerce-breadcrumb{
 }
 
 /* product Variety */
-.woo-variation-swatches.rtl .variable-items-wrapper .variable-item {
+.woo-variation-items-wrapper .variable-item {
   width: 100%;
   margin: 8px;
 }
