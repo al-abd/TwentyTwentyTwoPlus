@@ -118,5 +118,6 @@ nav.woocommerce-breadcrumb{
 /* product Variety */
 .woo-variation-items-wrapper .variable-item {
   width: 100% !important;
-  margin: 8px !important;
+  max-width: 200px !important;
+  margin: 10px 4px !important;
 }
