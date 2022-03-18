@@ -31,8 +31,8 @@
 
 body {
   --wp--preset--color--block--background: rgba(238, 238, 238, 0.47);
-	--wp--preset--font-family--system-font: "Yekan", sans-serif !important;
-	--wp--preset--font-family--source-serif-pro: "Yekan", serif !important;
+	--wp--preset--font-family--system-font: XM Yekan, sans-serif !important;
+	--wp--preset--font-family--source-serif-pro: XM Yekan, serif !important;
 }
 
 html {
