@@ -127,5 +127,5 @@ nav.woocommerce-breadcrumb{
   height: auto !important;
 }
 .woocommerce div.product a.reset_variations {
-  display: none;
+  display: none !important;
 }
