@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Yekan';
-	src: url('https://cdn.cleveraj.net/fonts/BYekan+.eot');
-	src: url('https://cdn.cleveraj.net/fonts/BYekan+.eot?#iefix') format('embedded-opentype'),
-		 url('https://cdn.cleveraj.net/fonts/BYekan+.woff') format('woff'),
-		 url('https://cdn.cleveraj.net/fonts/BYekan+.ttf') format('truetype'),
-		 url('https://cdn.cleveraj.net/fonts/BYekan+.svg#WebYekan') format('svg');
+	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot');
+	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.ttf') format('truetype'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.svg#WebYekan') format('svg');
 }
 
 body {
