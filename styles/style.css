@@ -1,32 +1,32 @@
 @font-face {
 	font-family: 'Yekan';
-	src: url('https://cdn.cleveraj.net/fonts/includes/WebYekan.eot');
-	src: url('https://cdn.cleveraj.net/fonts/includes/WebYekan.eot?#iefix') format('embedded-opentype'),
-		 url('https://cdn.cleveraj.net/fonts/includes/WebYekan.woff') format('woff'),
-		 url('https://cdn.cleveraj.net/fonts/includes/WebYekan.ttf') format('truetype'),
-		 url('https://cdn.cleveraj.net/fonts/includes/WebYekan.svg#WebYekan') format('svg');
+	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot');
+	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.ttf') format('truetype'),
+		 url('https://cdn.cleveraj.net/fonts/WebYekan.svg#WebYekan') format('svg');
 }
 
 @font-face {
 	font-family: XM Yekan;
 	font-weight: normal;
 	font-style: normal;
-	src: url('https://cdn.cleveraj.net/fonts/includes/XMYekan.eot');
-	src: url('https://cdn.cleveraj.net/fonts/includes/XMYekan.eot?#iefix') format('embedded-opentype'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan.woff2') format('woff2'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan.woff') format('woff'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan.ttf') format('truetype');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan.eot');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.woff2') format('woff2'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: XM Yekan;
     font-style: normal;
     font-weight: bold;
-	src: url('https://cdn.cleveraj.net/fonts/includes/XMYekan-Bold.eot');
-	src: url('https://cdn.cleveraj.net/fonts/includes/XMYekan-Bold.eot?#iefix') format('embedded-opentype'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan-Bold.woff2') format('woff2'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan-Bold.woff') format('woff'),
-		 url('https://cdn.cleveraj.net/fonts/includes/XMYekan-Bold.ttf') format('truetype');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff2') format('woff2'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.ttf') format('truetype');
 }
 
 body {
