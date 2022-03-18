@@ -1,24 +1,16 @@
-/* @font-face {
+@font-face {
 	font-family: 'Yekan';
 	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot');
 	src: url('https://cdn.cleveraj.net/fonts/WebYekan.eot?#iefix') format('embedded-opentype'),
 		 url('https://cdn.cleveraj.net/fonts/WebYekan.woff') format('woff'),
 		 url('https://cdn.cleveraj.net/fonts/WebYekan.ttf') format('truetype'),
 		 url('https://cdn.cleveraj.net/fonts/WebYekan.svg#WebYekan') format('svg');
-} */
-
-@font-face {
-    font-family: "IRANYekan";
-    src: url(https://www.digikala.com/_next/static/media/iranyekanwebthin.612285dc.eot);
-    src: url(https://www.digikala.com/_next/static/media/iranyekanwebthin.612285dc.eot) format("embedded-opentype"),
-	url(https://cdn.cleveraj.net/fonts/iranyekanwebthin.woff) format("woff"),
-	url(https://cdn.cleveraj.net/fonts/iranyekanwebthin.ttf) format("truetype")
 }
 
 body {
   --wp--preset--color--block--background: rgba(238, 238, 238, 0.47);
-	--wp--preset--font-family--system-font: "IRANYekan", sans-serif !important;
-	--wp--preset--font-family--source-serif-pro: "IRANYekan", serif !important;
+	--wp--preset--font-family--system-font: "Yekan", sans-serif !important;
+	--wp--preset--font-family--source-serif-pro: "Yekan", serif !important;
 }
 
 html {
