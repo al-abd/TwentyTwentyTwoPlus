@@ -126,3 +126,6 @@ nav.woocommerce-breadcrumb{
   overflow: hidden;
   height: auto !important;
 }
+.woo-variation-items-wrapper a.reset_variations {
+  display: none;
+}
