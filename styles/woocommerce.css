@@ -123,4 +123,6 @@ nav.woocommerce-breadcrumb{
   width: 100% !important;
   max-width: 210px !important;
   margin: 4px 10px !important;
+  overflow: hidden;
+  height: auto !important;
 }
