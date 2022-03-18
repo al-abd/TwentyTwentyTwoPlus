@@ -116,6 +116,9 @@ nav.woocommerce-breadcrumb{
 }
 
 /* product Variety */
+.woo-variation-swatches .variable-items-wrapper {
+  justify-content: center;
+}
 .woo-variation-items-wrapper .variable-item {
   width: 100% !important;
   max-width: 300px !important;
