@@ -22,11 +22,11 @@
 	font-family: XM Yekan;
     font-style: normal;
     font-weight: bold;
-	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot');
-	src: url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.eot?#iefix') format('embedded-opentype'),
-		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff2') format('woff2'),
-		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.woff') format('woff'),
-		 url('https://cdn.cleveraj.net/fonts/XMYekan-Bold.ttf') format('truetype');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekanBold.eot');
+	src: url('https://cdn.cleveraj.net/fonts/XMYekanBold.eot?#iefix') format('embedded-opentype'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekanBold.woff2') format('woff2'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekanBold.woff') format('woff'),
+		 url('https://cdn.cleveraj.net/fonts/XMYekanBold.ttf') format('truetype');
 }
 
 body {
