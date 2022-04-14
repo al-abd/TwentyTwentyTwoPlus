@@ -1,3 +1,17 @@
+/* Print */
+
+@media print {
+	.noPrint {
+		display:none;
+	}
+}
+@media screen {
+	.onlyPrint {
+		display: none;
+	}
+}
+
+
 /**********************************/
 /********** Custom class **********/
 /**********************************/
