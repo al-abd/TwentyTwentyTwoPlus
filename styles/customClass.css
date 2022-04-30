@@ -125,6 +125,9 @@ a.text-d, a:-webkit-any-link.text-d{
 	text-decoration: none !important;
 }
 
+
+
+/* Content direction */
 rtl{
 	direction: rtl !important;
 }
@@ -134,3 +137,10 @@ rtl{
 .ltr {
 	direction: ltr !important;
 }
+
+
+@media screen and (max-width: 800px) {
+	.yas {
+	  direction: ltr; /* The width is 100%, when the viewport is 800px or smaller */
+	}
+  }
