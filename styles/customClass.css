@@ -135,11 +135,11 @@ a.text-d, a:-webkit-any-link.text-d{
 
 
 rtl{
-	direction: rtl;
+	direction: rtl !important;
 }
 
 
 
 .ltr {
-	direction: ltr;
+	direction: ltr !important;
 }
