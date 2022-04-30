@@ -130,7 +130,7 @@ a.text-d, a:-webkit-any-link.text-d{
 
 flex{
 	display: flex;
-	flex-direction: row-reverse;
+	flex-direction: column;
 }
 
 
