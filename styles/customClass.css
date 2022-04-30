@@ -134,7 +134,9 @@ a.text-d, a:-webkit-any-link.text-d{
 
 
 
-
+rtl{
+	direction: rtl;
+}
 
 
 
