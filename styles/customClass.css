@@ -138,9 +138,10 @@ rtl{
 	direction: ltr !important;
 }
 
-
+.mediaa{
 @media screen and (max-width: 800px) {
 	.yas {
 	  direction: ltr; /* The width is 100%, when the viewport is 800px or smaller */
 	}
   }
+}
