@@ -141,6 +141,6 @@ rtl{
 
 @media screen and (max-width: 500px) {
 	.yas {
-	  direction: ltr !important; 
+	  direction: rtl !important; 
 	}
   }
