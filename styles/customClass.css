@@ -134,13 +134,6 @@ rtl{
 
 
 
-.ltr {
+.d-ltr{
 	direction: ltr !important;
 }
-
-
-@media screen and (max-width: 500px) {
-	.yas {
-	  direction: rtl !important; 
-	}
-  }
