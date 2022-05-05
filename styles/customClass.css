@@ -128,11 +128,6 @@ a.text-d, a:-webkit-any-link.text-d{
 
 
 /* Content direction */
-rtl{
-	direction: rtl !important;
-}
-
-
 
 .d-ltr{
 	direction: ltr !important;
