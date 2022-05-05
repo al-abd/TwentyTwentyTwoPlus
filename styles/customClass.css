@@ -129,6 +129,6 @@ a.text-d, a:-webkit-any-link.text-d{
 
 /* Content direction */
 
-.d-ltr{
+.dn-left{
 	direction: ltr !important;
 }
