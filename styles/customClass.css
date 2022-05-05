@@ -124,3 +124,7 @@
 a.text-d, a:-webkit-any-link.text-d{
 	text-decoration: none !important;
 }
+
+.dr-lef{
+	direction: ltr;
+}
