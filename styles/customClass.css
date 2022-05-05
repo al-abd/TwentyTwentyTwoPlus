@@ -124,11 +124,3 @@
 a.text-d, a:-webkit-any-link.text-d{
 	text-decoration: none !important;
 }
-
-
-
-/* Content direction */
-
-.dn-left{
-	direction: ltr !important;
-}
