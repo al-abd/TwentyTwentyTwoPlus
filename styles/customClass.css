@@ -21,7 +21,7 @@
 }
 
 /*
-	Adds center-justify
+Adds center-justify
 */
 .text-center-justify{
 	text-align: justify;
@@ -31,15 +31,21 @@
 	text-align: justify;
 }
 
+
+.dr-lef{
+	direction: ltr !important;
+}
+
+
 /*
-	Adds text-shadow
+Adds text-shadow
 */
 .t-shadow{
 	text-shadow: 2px 4px 3px rgba(0,0,0,0.1);
 }
 
 /*
-	Adds radius to box
+Adds radius to box
 */
 .box-br-s {
 	overflow: hidden;
@@ -125,6 +131,7 @@ a.text-d, a:-webkit-any-link.text-d{
 	text-decoration: none !important;
 }
 
-.dr-lef{
-	direction: ltr !important;
+/* margin */
+.margin-0{
+	margin: 0;
 }
