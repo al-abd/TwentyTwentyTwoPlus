@@ -45,6 +45,7 @@ nav.woocommerce-breadcrumb{
   flex-direction: column;
   margin-top: auto;
   font-size: 0;
+  border-top: solid 1px #7d7d7d20;
 }
 .woocommerce-page ul.products li.product .price .amount {
   font-size: 0.93rem;
@@ -56,6 +57,10 @@ nav.woocommerce-breadcrumb{
   flex-grow: 1;
   flex-direction: column;
   justify-content: space-between;
+}
+
+.woocommerce-page ul.products li.product img {
+box-shadow: 0 0 5px #7d7d7db0;
 }
 
 /* Product hover : ANIMATION */
