@@ -36,6 +36,7 @@ nav.woocommerce-breadcrumb{
 /* Title of product : TEXT */
 .woocommerce-page ul.products li.product h2.woocommerce-loop-product__title {
   line-height: 1.6rem;
+  margin-bottom: 10px;
 }
 
 /* Product price : TEXT */
@@ -46,7 +47,7 @@ nav.woocommerce-breadcrumb{
   font-size: 0;
 }
 .woocommerce-page ul.products li.product .price .amount {
-  font-size: 15px;
+  font-size: auto;
 }
 
 .woocommerce ul.products li.product a.woocommerce-loop-product__link{
@@ -54,7 +55,6 @@ nav.woocommerce-breadcrumb{
   display: flex;
   flex-grow: 1;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 /* Product hover : ANIMATION */
