@@ -49,6 +49,14 @@ nav.woocommerce-breadcrumb{
   font-size: 13px;
 }
 
+.woocommerce ul.products li.product a.woocommerce-loop-product__link{
+  text-decoration: none;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
 /* Product hover : ANIMATION */
 .woocommerce-page ul.products li.product:hover {
   box-shadow: 0 0 5px #7d7d7d7d;
