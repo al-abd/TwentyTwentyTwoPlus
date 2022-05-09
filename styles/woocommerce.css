@@ -42,7 +42,7 @@ nav.woocommerce-breadcrumb{
 .woocommerce-page ul.products li.product .price {
   display: flex !important;
   flex-direction: column;
-  align-items: flex-end;
+  
 }
 
 /* Product hover : ANIMATION */
