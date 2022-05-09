@@ -20,6 +20,9 @@ nav.woocommerce-breadcrumb{
 
 /* Product : BOX */
 .woocommerce-page ul.products li.product {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
   padding: 1rem !important;
   transition: all 0.2s;
   background-color: var(--wp--preset--color--block--background);
