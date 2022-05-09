@@ -28,7 +28,7 @@ nav.woocommerce-breadcrumb{
   background-color: var(--wp--preset--color--block--background);
   margin-left: -1px !important;
   margin-top: -1px !important;
-  border: 1px solid #7d7d7d7d;
+  border: 1px solid #7d7d7d10;
   /* border: var(--wp--wc--product--border); */
   margin-bottom: 0 !important;
   width: 21% !important;
