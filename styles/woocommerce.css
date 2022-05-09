@@ -35,7 +35,7 @@ nav.woocommerce-breadcrumb{
 
 /* Title of product : TEXT */
 .woocommerce-page ul.products li.product h2.woocommerce-loop-product__title {
-  line-height: 1.6rem;
+  line-height: 1.15rem;
   margin-bottom: 10px;
 }
 
@@ -47,7 +47,7 @@ nav.woocommerce-breadcrumb{
   font-size: 0;
 }
 .woocommerce-page ul.products li.product .price .amount {
-  font-size: 15px;
+  font-size: 0.93rem;
 }
 
 .woocommerce ul.products li.product a.woocommerce-loop-product__link{
