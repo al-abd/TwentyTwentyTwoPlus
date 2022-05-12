@@ -168,3 +168,9 @@ a.checkout-button.button.alt.wc-forward{
 .woocommerce-page .cart-collaterals .woocommerce-Price-amount bdi{
   font-size: 1.75rem;
 }
+
+@media (prefers-color-scheme: dark){
+  .a.checkout-button.button.alt.wc-forward{
+    background-color: white;
+  }
+}
