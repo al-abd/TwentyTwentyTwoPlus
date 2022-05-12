@@ -160,7 +160,7 @@ box-shadow: 0 0 5px #7d7d7db0;
 
 }
 
-.woocommerce a.checkout-button, .woocommerce button.single_add_to_cart_button, .woocommerce button.woocommerce-form-login__submit{
+a.checkout-button.button.alt.wc-forward{
 
  margin-bottom: 10px; 
 }
