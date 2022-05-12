@@ -164,3 +164,7 @@ a.checkout-button.button.alt.wc-forward{
 
  margin-bottom: 10px; 
 }
+
+.woocommerce-page .cart-collaterals .woocommerce-Price-amount bdi{
+  font-size: 1.75rem;
+}
