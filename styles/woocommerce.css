@@ -152,3 +152,10 @@ box-shadow: 0 0 5px #7d7d7db0;
 .woocommerce div.product a.reset_variations {
   display: none !important;
 }
+
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals{
+
+  border-right: 5px solid;
+  padding-right: 10px;
+
+}
