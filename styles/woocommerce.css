@@ -120,6 +120,7 @@ box-shadow: 0 0 5px #7d7d7db0;
 }
 .woocommerce-Price-amount.amount bdi {
     line-break: auto;
+    color: #1a4845;
 }
 .sp-wps-product-image-area{
     width: 100%;
