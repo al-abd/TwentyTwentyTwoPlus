@@ -159,3 +159,8 @@ box-shadow: 0 0 5px #7d7d7db0;
   padding-right: 10px;
 
 }
+
+.woocommerce a.checkout-button, .woocommerce button.single_add_to_cart_button, .woocommerce button.woocommerce-form-login__submit{
+
+ margin-bottom: 10px; 
+}
