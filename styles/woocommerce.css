@@ -170,7 +170,7 @@ a.checkout-button.button.alt.wc-forward{
 }
 
 @media (prefers-color-scheme: dark){
-  .a.checkout-button.button.alt.wc-forward{
+  .wc-proceed-to-checkout .a.checkout-button.button.alt.wc-forward{
     background-color: white;
     color: black;
   }
