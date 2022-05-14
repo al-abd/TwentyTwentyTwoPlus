@@ -162,7 +162,8 @@ box-shadow: 0 0 5px #7d7d7db0;
 
 a.checkout-button.button.alt.wc-forward{
 
- margin-bottom: 15px; 
+  margin-bottom: 15px;
+  background-color: black; 
 }
 
 .woocommerce-page .cart-collaterals .woocommerce-Price-amount bdi{
