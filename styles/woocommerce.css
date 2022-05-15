@@ -172,7 +172,14 @@ a.checkout-button.button.alt.wc-forward{
 
 @media (prefers-color-scheme: dark){
   .cart_totals .wc-proceed-to-checkout .a.checkout-button.button.alt.wc-forward{
-    background-color: white;
+    background-color: #FFFFFF;
     color: black;
+  }
+}
+
+
+@media (prefers-color-scheme: dark){
+  .value.woo-variation-items-wrapper .variable-item button-variable-item button-variable-item{
+    color: #000;
   }
 }
