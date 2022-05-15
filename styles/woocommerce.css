@@ -179,7 +179,7 @@ a.checkout-button.button.alt.wc-forward{
 
 
 @media (prefers-color-scheme: dark){
-  .value.woo-variation-items-wrapper .variable-item button-variable-item button-variable-item{
+  .value.woo-variation-items-wrapper .variable-item .button-variable-item button-variable-item{
     color: #000;
   }
 }
