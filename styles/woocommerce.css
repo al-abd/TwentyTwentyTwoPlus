@@ -173,6 +173,7 @@ a.checkout-button.button.alt.wc-forward{
 @media (prefers-color-scheme: dark){
   .cart-collaterals .wc-proceed-to-checkout .checkout-button.button.alt.wc-forward{
     background-color: var(--wc-content-bg);
+    color: var(--wc-secondary-text);
   }
 }
 
