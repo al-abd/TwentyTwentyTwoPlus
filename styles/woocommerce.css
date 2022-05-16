@@ -172,8 +172,8 @@ a.checkout-button.button.alt.wc-forward{
 
 @media (prefers-color-scheme: dark){
   .cart_totals .wc-proceed-to-checkout .a.checkout-button.button.alt.wc-forward{
-    background-color: #FFFFFF;
-    color: black;
+    background-color: #FFFFFF !important;
+    color: black !important;
   }
 }
 
