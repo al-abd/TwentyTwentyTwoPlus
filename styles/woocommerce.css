@@ -179,7 +179,7 @@ a.checkout-button.button.alt.wc-forward{
 
 
 @media (prefers-color-scheme: dark){
-  .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper{
+  .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item-h855a.disabled{
     color: #000;
   }
 }
