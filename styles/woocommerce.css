@@ -178,6 +178,8 @@ a.checkout-button.button.alt.wc-forward{
 }
 
 
-.variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item-h855a.disabled{
-    color: var(--wc-secondary-text);
+@media (prefers-color-scheme: dark){
+  .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item-h855a.disabled{
+    color: var(--dark-mod, #000);
   }
+}
