@@ -170,16 +170,15 @@ a.checkout-button.button.alt.wc-forward{
   font-size: 1.75rem;
 }
 
-/* @media (prefers-color-scheme: dark){
   .cart-collaterals .wc-proceed-to-checkout .checkout-button.button.alt.wc-forward{
     background-color: var(--wc-content-bg);
     color: var(--wc-secondary-text);
   }
-}
+
 
   .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item{
     color: var(--wc-secondary-text);
-  } */
+  }
 
 
   @media (prefers-color-scheme: dark){
