@@ -171,13 +171,9 @@ a.checkout-button.button.alt.wc-forward{
 }
 
 @media (prefers-color-scheme: dark){
-  .cart_totals .wc-proceed-to-checkout .a.checkout-button.button.alt.wc-forward{
-    background-color: #FFFFFF !important;
-    color: black !important;
+  .cart-collaterals .wc-proceed-to-checkout .checkout-button.button.alt.wc-forward{
+    background-color: var(--wc-content-bg);
   }
-}
-
-
 
   .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item{
     color: var(--wc-secondary-text);
