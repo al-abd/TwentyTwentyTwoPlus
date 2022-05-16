@@ -179,5 +179,5 @@ a.checkout-button.button.alt.wc-forward{
 
 
 .variations_form.cart.wvs-loaded .variable-items-wrapper.button-variable-wrapper .variable-item.button-variable-item.button-variable-item-h855a.disabled{
-    color: var(--wp--preset--color--foreground);
+    color: var(--wc-secondary-text);
   }
