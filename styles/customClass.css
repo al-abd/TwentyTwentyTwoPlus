@@ -119,6 +119,14 @@ Adds radius to box
 		display: none !important;
 	}
 }
+
+@media screen and (min-width: 600px) {
+	.display-no-wrap {
+		flex-wrap: nowrap;
+	}
+}
+
+
 /* 
 	overflow hidden
 */
