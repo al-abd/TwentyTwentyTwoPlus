@@ -120,9 +120,9 @@ Adds radius to box
 	}
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
 	.display-no-wrap {
-		flex-wrap: nowrap;
+		flex-wrap: nowrap !important;
 	}
 }
 
